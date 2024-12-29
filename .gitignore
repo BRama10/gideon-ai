@@ -1,0 +1,8 @@
+.DS_Store
+.env
+venv
+env
+__pycache__
+temp
+temp_photo
+vectordb
