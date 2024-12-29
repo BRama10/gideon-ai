@@ -1,5 +1,5 @@
 import time
-from utils.shared import json_print, display_media
+from gideon.utils.shared import json_print, display_media
 
 def query_collection(client, logger):
     start_time = time.time()

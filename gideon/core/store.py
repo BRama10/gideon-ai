@@ -7,8 +7,6 @@ import logging
 from dotenv import load_dotenv
 import weaviate, os
 from weaviate.classes.config import Property, DataType, Configure, Multi2VecField
-from dedup import ImageDeduplicator
-from utils.shared import toBase64, url_to_base64, file_to_base64
 
 def create_weaviate_client(logger):
 

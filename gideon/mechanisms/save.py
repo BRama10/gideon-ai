@@ -1,5 +1,5 @@
 import time
-from utils.shared import toBase64
+from gideon.utils.shared import toBase64
 import os
 
 def add_recordings(recordings, logger, source: list[str]):

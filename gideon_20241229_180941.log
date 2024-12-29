@@ -1,0 +1,63 @@
+2024-12-29 18:09:43,646 - gideon - INFO - Client creation took 2.40 seconds
+2024-12-29 18:09:43,647 - gideon - INFO - Client Is Ready: True
+2024-12-29 18:09:43,648 - gideon - INFO - Creating new Recordings collection
+2024-12-29 18:09:43,819 - gideon - INFO - Collection creation took 0.17 seconds
+2024-12-29 18:09:43,819 - gideon - INFO - Total collection setup took 0.17 seconds
+2024-12-29 18:09:51,843 - gideon - INFO - Starting deduplication process...
+2024-12-29 18:09:53,701 - gideon - INFO - Updating vector database...
+2024-12-29 18:09:53,701 - gideon - INFO - Found 1 JPG files to process
+2024-12-29 18:09:53,704 - gideon - INFO - Processing file 1/1: temp_photo/frame_4.582.jpg
+2024-12-29 18:09:53,705 - gideon - INFO - File temp_photo/frame_4.582.jpg processing took 0.00 seconds
+2024-12-29 18:09:55,739 - gideon - INFO - No errors in batch processing
+2024-12-29 18:09:55,740 - gideon - INFO - Cleaning up processed images...
+2024-12-29 18:09:55,749 - gideon - INFO - Deduplication cycle completed
+2024-12-29 18:10:00,754 - gideon - INFO - Starting deduplication process...
+2024-12-29 18:10:02,527 - gideon - INFO - Updating vector database...
+2024-12-29 18:10:02,527 - gideon - INFO - Found 5 JPG files to process
+2024-12-29 18:10:02,527 - gideon - INFO - Processing file 1/5: temp_photo/frame_10.980.jpg
+2024-12-29 18:10:02,529 - gideon - INFO - File temp_photo/frame_10.980.jpg processing took 0.00 seconds
+2024-12-29 18:10:02,529 - gideon - INFO - Processing file 2/5: temp_photo/frame_9.984.jpg
+2024-12-29 18:10:02,532 - gideon - INFO - File temp_photo/frame_9.984.jpg processing took 0.00 seconds
+2024-12-29 18:10:02,532 - gideon - INFO - Processing file 3/5: temp_photo/frame_13.354.jpg
+2024-12-29 18:10:02,533 - gideon - INFO - File temp_photo/frame_13.354.jpg processing took 0.00 seconds
+2024-12-29 18:10:02,533 - gideon - INFO - Processing file 4/5: temp_photo/frame_13.223.jpg
+2024-12-29 18:10:02,547 - gideon - INFO - File temp_photo/frame_13.223.jpg processing took 0.01 seconds
+2024-12-29 18:10:02,547 - gideon - INFO - Processing file 5/5: temp_photo/frame_12.476.jpg
+2024-12-29 18:10:02,548 - gideon - INFO - File temp_photo/frame_12.476.jpg processing took 0.00 seconds
+2024-12-29 18:10:08,187 - gideon - INFO - No errors in batch processing
+2024-12-29 18:10:08,188 - gideon - INFO - Cleaning up processed images...
+2024-12-29 18:10:08,201 - gideon - INFO - Deduplication cycle completed
+2024-12-29 18:10:13,206 - gideon - INFO - Starting deduplication process...
+2024-12-29 18:10:15,088 - gideon - INFO - Updating vector database...
+2024-12-29 18:10:15,088 - gideon - INFO - Found 1 JPG files to process
+2024-12-29 18:10:15,088 - gideon - INFO - Processing file 1/1: temp_photo/frame_21.900.jpg
+2024-12-29 18:10:15,089 - gideon - INFO - File temp_photo/frame_21.900.jpg processing took 0.00 seconds
+2024-12-29 18:10:17,698 - gideon - INFO - No errors in batch processing
+2024-12-29 18:10:17,698 - gideon - INFO - Cleaning up processed images...
+2024-12-29 18:10:17,708 - gideon - INFO - Deduplication cycle completed
+2024-12-29 18:10:22,713 - gideon - INFO - Starting deduplication process...
+2024-12-29 18:10:24,587 - gideon - INFO - Updating vector database...
+2024-12-29 18:10:24,587 - gideon - INFO - Found 2 JPG files to process
+2024-12-29 18:10:24,587 - gideon - INFO - Processing file 1/2: temp_photo/frame_35.101.jpg
+2024-12-29 18:10:24,589 - gideon - INFO - File temp_photo/frame_35.101.jpg processing took 0.00 seconds
+2024-12-29 18:10:24,589 - gideon - INFO - Processing file 2/2: temp_photo/frame_31.240.jpg
+2024-12-29 18:10:24,590 - gideon - INFO - File temp_photo/frame_31.240.jpg processing took 0.00 seconds
+2024-12-29 18:10:27,299 - gideon - INFO - No errors in batch processing
+2024-12-29 18:10:27,299 - gideon - INFO - Cleaning up processed images...
+2024-12-29 18:10:27,308 - gideon - INFO - Deduplication cycle completed
+2024-12-29 18:10:32,313 - gideon - INFO - Starting deduplication process...
+2024-12-29 18:10:34,224 - gideon - INFO - Updating vector database...
+2024-12-29 18:10:34,224 - gideon - INFO - Found 1 JPG files to process
+2024-12-29 18:10:34,224 - gideon - INFO - Processing file 1/1: temp_photo/frame_44.808.jpg
+2024-12-29 18:10:34,226 - gideon - INFO - File temp_photo/frame_44.808.jpg processing took 0.00 seconds
+2024-12-29 18:10:36,654 - gideon - INFO - No errors in batch processing
+2024-12-29 18:10:36,654 - gideon - INFO - Cleaning up processed images...
+2024-12-29 18:10:36,672 - gideon - INFO - Deduplication cycle completed
+2024-12-29 18:10:41,677 - gideon - INFO - Starting deduplication process...
+2024-12-29 18:10:43,495 - gideon - INFO - Updating vector database...
+2024-12-29 18:10:43,495 - gideon - INFO - Found 1 JPG files to process
+2024-12-29 18:10:43,495 - gideon - INFO - Processing file 1/1: temp_photo/frame_53.135.jpg
+2024-12-29 18:10:43,497 - gideon - INFO - File temp_photo/frame_53.135.jpg processing took 0.00 seconds
+2024-12-29 18:10:46,218 - gideon - INFO - No errors in batch processing
+2024-12-29 18:10:46,219 - gideon - INFO - Cleaning up processed images...
+2024-12-29 18:10:46,225 - gideon - INFO - Deduplication cycle completed
